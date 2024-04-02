@@ -1,5 +1,5 @@
-```typescript jsx
-function js(code) {
-    <script>code</script>
+```php
+function js.php(code) {
+    '<script>code</script>'
 }
 ```
