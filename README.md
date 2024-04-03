@@ -1,5 +1,4 @@
-```php
-function js.php(code) {
-    '<script>code</script>'
-}
+```python
+def func():
+    print(input(func())
 ```
